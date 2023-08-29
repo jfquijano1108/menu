@@ -1,0 +1,103 @@
+body{
+    background-color: black;
+}
+
+.banner{
+    width: 700px;
+    height: 150px;
+}
+
+h1{
+    color: antiquewhite;
+}
+
+/* styles mojito*/
+
+.imagmojito{
+    width: 650px;
+    height: 500px;
+
+}
+
+
+p{
+    color: azure;
+    text-align: left;
+}
+
+.tipo_coctel{
+    color: azure;
+    text-align: center;
+}
+h2{
+    color: white;
+}
+aside{
+width: 45%;
+float: right;
+padding: 20px;
+box-sizing: border-box;
+}
+
+/*styles daiquiri*/
+
+.imagdaiqui{
+    width: 500px;
+    height: 500px;
+}
+
+/*styles rum*/
+
+.imagrum{
+    width: 500px;
+    height: 500px;
+}
+
+
+
+
+/* styles for mai tai*/
+.imgmaitai{
+    width: 500px;
+    height: 600px;
+}
+
+/*style for piña colada*/
+.imagpiña{
+    width: 500px;
+    height: 500px;
+}
+
+/*style mango colada*/
+.imgmango{
+    width: 500px;
+    height: 500px;
+}
+
+/*style spring*/
+
+.imgspring{
+    height: 500px;
+    width: 500px;
+}
+
+
+/*style white russian*/
+
+.whiterusian{
+    height: 200px;
+    height: 450px;
+
+}
+
+
+/* styles*/
+ul li{
+    color: aliceblue;
+    list-style: none;
+}
+
+footer{
+    color: azure;
+    text-align: center;
+}
