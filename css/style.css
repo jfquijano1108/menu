@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+nav ul{
+    list-style: none;
+}
+
+.banner{
+    width: 500px;
+    height: 300px;
+
+}
+
+h1{
+    color: antiquewhite;
+}
+p{
+    color: antiquewhite;
+}
+ul{
+    color: aqua;
+}
+
+cerveza{
+
+}
+
+img{
+    width: 200px;
+    height: 300px;
+}
+
+footer{
+    color: azure;
+    text-align: center;
+}
