@@ -11,18 +11,15 @@ h1{
     color: antiquewhite;
 }
 
-/* styles mojito*/
-
-.imagmojito{
-    width: 650px;
-    height: 500px;
-
+.precio{
+    text-align: right;
+    font-family: cursive;
 }
-
 
 p{
     color: azure;
-    text-align: left;
+    text-align: justify;
+    font-size: 140%;
 }
 
 .tipo_coctel{
@@ -31,12 +28,29 @@ p{
 }
 h2{
     color: white;
+    text-align: center;
 }
 aside{
 width: 45%;
 float: right;
 padding: 20px;
 box-sizing: border-box;
+}
+
+.menu{
+    font-family:cursive ;
+    font-size: 300%;
+}
+
+/* styles mojito*/
+
+.imagmojito{
+    width: 650px;
+    height: 710px;
+}
+
+.histomoji{
+    font-size: medium;
 }
 
 /*styles daiquiri*/
