@@ -3,34 +3,65 @@ body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.banner{
+    width: 700px;
+    height: 300px;
+    padding: 5px;
+    box-align: center;
+}
+
+
 nav ul{
+    text-align: center;
     list-style: none;
 }
 
-.banner{
-    width: 500px;
-    height: 300px;
 
+nav ul li{
+    float: left;
 }
+
+nav ul li a{
+    padding: 5px 5px;
+    display: block;
+    content: white;
+    text-decoration: none;
+    font-family: cursive;
+}
+
+
+ nav ul li a:hover{
+	background: grey;
+}
+
+
 
 h1{
-    color: antiquewhite;
+        color: antiquewhite;
+        text-align: center;
+        font-family: cursive;
 }
+
+
+.cocteles{
+    width: 100;
+    height: 150;
+}
+
+
 p{
     color: antiquewhite;
-}
-ul{
-    color: aqua;
-}
-
-cerveza{
-
+    text-align: center;
+    font-family: cursive;
 }
 
-img{
-    width: 200px;
+.cervezas{
+    width: 800PX;
     height: 300px;
+
 }
+
+
 
 footer{
     color: azure;
