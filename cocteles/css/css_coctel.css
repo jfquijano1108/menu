@@ -56,51 +56,76 @@ box-sizing: border-box;
 /*styles daiquiri*/
 
 .imagdaiqui{
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 570px;
+}
+.hitodaiqui{
+    font-size: medium;
 }
 
 /*styles rum*/
 
 .imagrum{
     width: 500px;
-    height: 500px;
+    height: 690px;
 }
-
-
+.historum{
+    font-size: medium;
+}
 
 
 /* styles for mai tai*/
 .imgmaitai{
     width: 500px;
-    height: 600px;
+    height: 770px;
+}
+
+.histomai{
+    font-size: medium;
+    text-align: justify;
 }
 
 /*style for piña colada*/
 .imagpiña{
     width: 500px;
-    height: 500px;
+    height: 670px;
+}
+
+.histopiña{
+    text-align: justify;
+    font-size: medium;
 }
 
 /*style mango colada*/
 .imgmango{
-    width: 500px;
-    height: 500px;
+    width: 700px;
+    height: 760px;
 }
 
 /*style spring*/
 
 .imgspring{
-    height: 500px;
-    width: 500px;
+    height: 700px;
+    width: 600px;
+}
+
+.histospring{
+    text-align: justify;
+    font-size: medium;
 }
 
 
 /*style white russian*/
 
 .whiterusian{
-    height: 200px;
-    height: 450px;
+    width: 700px;
+    height: 707px;
+
+}
+
+.histowhiterusian{
+    text-align: justify;
+    font-size: medium;
 
 }
 
